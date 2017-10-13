@@ -1,11 +1,23 @@
 # Creating Isochrones with Python and Distance APIs
 
+## Assumptions
+
+* [pipenv](https://github.com/kennethreitz/pipenv)
+
 ## Installation
 
 ### Install Python dependencies
 
 ```
-mkvirtualenv --python=`which python3` isochrones-python-apis
+pipenv --three
+pipenv install
+```
+
+## Running the notebook
+
+```
+pipenv shell
+jupyter-notebook Isochrones\ with\ Python\ and\ APIs.ipynb
 ```
 
 ## Geocoding an address
