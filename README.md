@@ -1,5 +1,11 @@
 # Creating Isochrones with Python and Distance APIs
 
+A Jupyter notebook showing how to use free spatial APIs to create isochrone maps.
+
+I made this for a training session at City Bureau's inaugural [Design-A-Thon](http://www.citybureau.org/design-day).
+
+You can view slides for the training [here](https://docs.google.com/presentation/d/1LJiH895olKajDKx6s84hHR1CvMh8QR3oQKOfinl5FJ8/edit?usp=sharing).
+
 ## Assumptions
 
 * [pipenv](https://github.com/kennethreitz/pipenv)
