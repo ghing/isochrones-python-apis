@@ -91,7 +91,8 @@ Pros:
 
 Cons:
 
-* None that I can immediately think of.  This seems pretty sweet!
+* Doesn't incorporate traffic in driving times
+* Doesn't (yet) support arrival time for transit directions 
 
 ## Thanks
 
